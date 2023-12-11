@@ -4,7 +4,7 @@
 -  skills, and analytical skills. Business analytics certification from udemy, hands-on program that covers the entire scope of the data analysis process.Seeking analyst
 -  role in the Analytics domain.
 - 💞️ I’m looking to collaborate on Data science workshop/project and looking for new opportunity.
-- 📫 You can reach me on linkedin- linkedin.com/in/prateek-07091452
+- 📫 You can reach me on linkedin- https://www.linkedin.com/in/prateek-07091452/
 
 
 <!---
